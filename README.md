@@ -10,4 +10,4 @@ Selenium Webdrivers can automate browsers. Primarily it is for automating web ap
 </ol>
 
 ## What's in the Demo 
-It automates to open the browser, go to Kickstarter.com, set language to be English and currency to be USD, scroll down to the botton 100 times, use beautiful soup to get following information: Project Title, Funded Percentage, Funded Amount, Project Goal, Project Category, Sub Category, Project City, Project State.
+A python code that automates to open the browser, go to Kickstarter.com, set language to be English and currency to be USD, scroll down to the botton 100 times, use beautiful soup to get following information: Project Title, Funded Percentage, Funded Amount, Project Goal, Project Category, Sub Category, Project City, Project State.
